@@ -17,5 +17,5 @@ Each event has the match address; the notes show the pitch, series and age group
 - Google Calendar (computer): Other calendars → + → From URL → paste the link. Google refreshes subscribed calendars
   on its own schedule, which can take up to a day.
 
-Times are Belgian local time; each match is shown as 2 hours. Source: rbfa.be. The files in this repo are generated;
+Times are Belgian local time; each match is shown as 1 h 45. Source: rbfa.be. The files in this repo are generated;
 don't edit them by hand.
