@@ -26,12 +26,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:rbfa-7526013@rbfa-calendars
-DTSTAMP:20261116T224017Z
+DTSTAMP:20261118T115937Z
 DTSTART;TZID=Europe/Brussels:20261120T201500
 DTEND;TZID=Europe/Brussels:20261120T220000
 SUMMARY:Sparta Petegem Deinze B 2 – K. Z. Dentergem A 2
 LOCATION:Gaversesteenweg 240\, 9800 Petegem A/De Leie
-DESCRIPTION:Terrein 3\nReserven Voetb Vl M\nRéserves
+DESCRIPTION:Terrein 2 (kunstgras)\nReserven Voetb Vl M\nRéserves
 END:VEVENT
 BEGIN:VEVENT
 UID:rbfa-7526020@rbfa-calendars
